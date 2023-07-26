@@ -69,3 +69,10 @@ A escolha da linguagem correta para o desenvolvimento de um projeto, dependerá 
 Em 1998 foi criada a linguagem C# como uma evolução da linguagem C++. Desenvolvida por Anders Hejlsberg, essa linguagem tem como objetivo uma interação simples com uma plataforma de desenvolvimento realizada pela Microsoft, chamada de .NET. Nesse caso, foram utilizados os princípios de uma linguagem criada por ele, chamada de ‘cool’ e que modificou seu nome para C#.
 
 Duascaracterísticasespecíficasfazemcomqueessalinguagemsejamuitointeressante para uso no desenvolvimento da programação, são elas:
+
+1. Simplicidade <br> Pois, é uma linguagem que é completamente orientada a objetos.
+   
+2. Flexibilidade <br> Devido a possibilidade de interação com diversos sistemas operacionais.
+
+> __Saiba mais:__
+> a sintaxe da linguagem C# é bem próxima a outros tipos de linguagens como C, C++ e Java. Uma grande vantagem da linguagem é que ela pode ser programada utilizando framework, sendo possível rodar em Linux ou Mac. Para obter mais informações sobre a história da linguagem, acesse o vídeo C# EM 5 MINUTOS: Tudo Que Você Precisa saber!
