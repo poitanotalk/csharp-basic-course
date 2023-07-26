@@ -62,4 +62,10 @@ clássicas, como C e C++, observe no quadro a seguir:
 | --- | --- | --- |
 | Lançada em 1942 | Lançada em 1979 | Lançada em 1998 |
 | Linguagem estruturada | Linguagem híbrida | Linguagem orientada a objetos |
-| Utilizada em programas que lidam diretamente com hardware, como um sistema operacional ou um driver. | A linguagem C++ é mais utilizada no desenvolvimento de alguns sistemas, como jogos de alto nível, aplicativos utilizados no mercado financeiro, sistemas operacionais, dispositivos embarcados, além de aplicativos de celulares. | Ela é usada na maioria das classes do ..NET framework |
+| Utilizada em programas que lidam diretamente com hardware, como um sistema operacional ou um driver. | A linguagem C++ é mais utilizada no desenvolvimento de alguns sistemas, como jogos de alto nível, aplicativos utilizados no mercado financeiro, sistemas operacionais, dispositivos embarcados, além de aplicativos de celulares. | Ela é usada na maioria das classes do .NET Framework |
+
+A escolha da linguagem correta para o desenvolvimento de um projeto, dependerá de seu objetivo.
+
+Em 1998 foi criada a linguagem C# como uma evolução da linguagem C++. Desenvolvida por Anders Hejlsberg, essa linguagem tem como objetivo uma interação simples com uma plataforma de desenvolvimento realizada pela Microsoft, chamada de .NET. Nesse caso, foram utilizados os princípios de uma linguagem criada por ele, chamada de ‘cool’ e que modificou seu nome para C#.
+
+Duascaracterísticasespecíficasfazemcomqueessalinguagemsejamuitointeressante para uso no desenvolvimento da programação, são elas:
