@@ -101,3 +101,11 @@ tópico, você aprenderá sobre algoritmo, estrutura de dados, .NET e CLR.
    
 5. Conceito de CLR <br> O CLR é responsável por fazer uma compilação just-in-time que permite o compartilhamento de classes que também são orientadas a objetos escritos em diferentes idiomas. O .NET também é denominado de ambiente gerenciado, aquele que não precisa de um local específico para execução.
 
+> __Saiba mais:__
+> o CLR é onde o código é transformado em linguagem de máquina, sendo o local final que o projeto é executado, passando primeiro
+pela linguagem intermediária e posteriormente para o CLR. Ele facilita a interação entre as linguagens, fazendo com que objetos
+de linguagens diferentes consigam se comunicar uns com os outros, ou seja, ter um comportamento integrado. Esse tipo de
+integração se torna possível, pois os compiladores de um sistema comum, seguem como regra o tempo de execução.
+
+Agora que você já conheceu a história, os principais conceitos sobre programação de algoritmos e a diferença entre as linguagens C, C++ e C#, você verá sobre a preparação do ambiente para o desenvolvimento de seu projeto. Acompanhe.
+
