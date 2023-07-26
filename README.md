@@ -76,3 +76,28 @@ Duascaracterísticasespecíficasfazemcomqueessalinguagemsejamuitointeressante pa
 
 > __Saiba mais:__
 > a sintaxe da linguagem C# é bem próxima a outros tipos de linguagens como C, C++ e Java. Uma grande vantagem da linguagem é que ela pode ser programada utilizando framework, sendo possível rodar em Linux ou Mac. Para obter mais informações sobre a história da linguagem, acesse o vídeo C# EM 5 MINUTOS: Tudo Que Você Precisa saber!
+
+Neste tópico, apresentamos brevemente a história da Linguagem C#, que foi criada
+em 1998 por Anders Hejlsberg e que representou uma evolução da Linguagem
+C e C++. Além disso, evidenciamos que as principais características dela são a
+simplicidade, a flexibilidade e a utilização de frameworks.
+
+No entanto, antes de você se aprofundar nessa linguagem, é necessário dominar
+alguns conceitos fundamentais de programação, os quais são abordados ao longo
+do curso, considerando a atuação profissional futura. Desta forma, no próximo
+tópico, você aprenderá sobre algoritmo, estrutura de dados, .NET e CLR. 
+
+## Conceitos importantes
+
+É essencial que você estude alguns conceitos importantes para entender melhor a base da programação de algoritmos. Esses conceitos e a função de cada parte que integra a programação, possibilitarão uma melhor compreensão do todo. Vamos lá?
+
+1. Conceito de algoritmo <br> O conceito de algoritmo diz respeito a uma sequência que é utilizada para realizar determinadas ações. Essa sequência poderá ser realizada a partir de determinadas condições impostas pelo programador e podem ter estruturas condicionais ou de repetição.
+
+2. Conceito de bug <br> Em casos de erros nos algoritmos, ocorre o que comumente é chamado entre os programadores de ‘bug’. De forma resumida, o algoritmo será o código criado pelo programador, que irá depender do tipo de linguagem utilizada.
+
+3. Conceito de estrutura de dados <br> Esse conceito consiste em uma definição de regras para organização dos dados. Um exemplo dessa estrutura é o da Fila, que tem a prioridade de executar o primeiro dado recebido. É importante analisarmos também a estrutura de dados, como eles estarão dispostos no algoritmo, analisando o conteúdo que está sendo armazenado ou transferido.
+
+4. Conceito de .NET <br> O .NET é um framework criado pela Microsoft que fornece as ferramentas necessárias para o desenvolvimento, e a linguagem C# está inserida nele. Dentro do framework .NET existe ainda o CLR (Common Language Runtime), este tem uma função intermediária de realizar a conversão do programa para a estrutura necessária para o funcionamento.
+   
+5. Conceito de CLR <br> O CLR é responsável por fazer uma compilação just-in-time que permite o compartilhamento de classes que também são orientadas a objetos escritos em diferentes idiomas. O .NET também é denominado de ambiente gerenciado, aquele que não precisa de um local específico para execução.
+
